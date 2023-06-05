@@ -19,7 +19,7 @@ namespace VertemNews.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=VertemNews;Trusted_Connection=true;");
+            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=VertemNewsDB;Trusted_Connection=true;");
         }
     }
 }
