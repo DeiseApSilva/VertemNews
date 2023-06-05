@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1NtIDyn0cESMWtdvqqrZenHue2qLi85N9StW/KwF0s4z0iYoBG5EMzOv+0Pdn9VFaam7Ar5l2SNCna2xcKRExA==",
+  "dgSpecHash": "BPgtsJye3hpEiOo0TssCBAG+VAt3Jj39j1h0uK+07Ri7UiYtEQVY2YEiFeVAsOxrlxm27mlNsnxtYrKcFeI3AQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\deyze\\Desktop\\VertemNews\\VertemNews\\VertemNews\\VertemNews.csproj",
+  "projectFilePath": "C:\\Users\\deyze\\Desktop\\VertemNews\\Release 1.0\\VertemNews\\VertemNews\\VertemNews.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\deyze\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\deyze\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

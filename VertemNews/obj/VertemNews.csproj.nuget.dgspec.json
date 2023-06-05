@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deyze\\Desktop\\VertemNews\\VertemNews\\VertemNews\\VertemNews.csproj": {}
+    "C:\\Users\\deyze\\Desktop\\VertemNews\\Release 1.0\\VertemNews\\VertemNews\\VertemNews.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deyze\\Desktop\\VertemNews\\VertemNews\\VertemNews\\VertemNews.csproj": {
+    "C:\\Users\\deyze\\Desktop\\VertemNews\\Release 1.0\\VertemNews\\VertemNews\\VertemNews.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deyze\\Desktop\\VertemNews\\VertemNews\\VertemNews\\VertemNews.csproj",
+        "projectUniqueName": "C:\\Users\\deyze\\Desktop\\VertemNews\\Release 1.0\\VertemNews\\VertemNews\\VertemNews.csproj",
         "projectName": "VertemNews",
-        "projectPath": "C:\\Users\\deyze\\Desktop\\VertemNews\\VertemNews\\VertemNews\\VertemNews.csproj",
+        "projectPath": "C:\\Users\\deyze\\Desktop\\VertemNews\\Release 1.0\\VertemNews\\VertemNews\\VertemNews.csproj",
         "packagesPath": "C:\\Users\\deyze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deyze\\Desktop\\VertemNews\\VertemNews\\VertemNews\\obj\\",
+        "outputPath": "C:\\Users\\deyze\\Desktop\\VertemNews\\Release 1.0\\VertemNews\\VertemNews\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
